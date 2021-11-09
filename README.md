@@ -1,7 +1,10 @@
-### Hi there 👋
+### [MY BLOG](https://github.com/festina-lente-z/haizhetang.github.io):hugs:
+- JavaScript
+- React
+- Python
 
 <!--
-**lizeze/lizeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**festina-lente-z/festina-lente-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Stats](https://github-readme-stats.vercel.app/api?username=lizeze&show_icons=true&count_private=true&theme=radical)](https://github.com/lizeze)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizeze&layout=compact&theme=radical)](https://github.com/lizeze)
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizeze&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/lizeze/github-readme-stats)
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 25 mins   █████████████░░░░░░░░░░░░   52.53 % 
+Markdown     6 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   39.09 % 
+HTML         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
+<!--END_SECTION:waka-->
